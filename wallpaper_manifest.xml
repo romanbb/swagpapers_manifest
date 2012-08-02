@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
 	<category id="main" name="Main">
-		<wallpaper name="hi" url="http://wallpaper.jpg" thumbUrl="http://wallpaper_small.jpg" author="" date="080112" />
+		<wallpaper 
+			name="hi" 
+			url="https://dl.dropbox.com/u/87565/AOKP/wallpapers/aokp_0.png" 
+			thumbUrl="https://dl.dropbox.com/u/87565/AOKP/wallpapers/aokp_0_small.png" 
+			author=""
+			date="080112" />
 	</category>
 </wallpapers>
