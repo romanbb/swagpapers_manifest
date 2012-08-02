@@ -19,5 +19,11 @@
 			thumbUrl="https://dl.dropbox.com/u/87565/AOKP/wallpapers/aokp_1_small.png" 
 			author=""
 			date="080112" />
+		<wallpaper 
+			name="hi3" 
+			url="https://dl.dropbox.com/u/87565/AOKP/wallpapers/aokp_1.png" 
+			thumbUrl="https://dl.dropbox.com/u/87565/AOKP/wallpapers/aokp_1_small.png" 
+			author="test"
+			date="080112" />
 	</category>
 </wallpapers>
